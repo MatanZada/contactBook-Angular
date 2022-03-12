@@ -6,8 +6,11 @@ import { Component, OnInit, Output, EventEmitter, Input } from '@angular/core';
   styleUrls: ['./add-contact.component.css'],
 })
 export class AddContactComponent {
-  @Output() addContact = new EventEmitter<{ name: string; age: string }>();
-  btnClicked(name: string, age: string) {
+  @Output() addContact = new EventEmitter<{
+    name: string;
+    age: string;
+  }>();
+  btnClicked(name: string, age: string): void {
     this.addContact.emit({
       name: name,
       age: age,
