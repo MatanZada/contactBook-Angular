@@ -1,27 +1,12 @@
-# ContactBook
+# Contact-Book Home Work 03.05.22
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
+- Create an anguler project called "contact-book".
+- Build a contact interface that have contact fields (name, age)
+- Add 2 inputs (name, age)
+- Add the abbility to add contact (this function suupose to be in the service right?)
+- Add contacts component and contact componet
+- Add contact service that handle all contacts logic.
 
-## Development server
+# ScreenShot
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![Alt text](../Screenshot%202022-03-12%20230036.png "Git checkbox")
