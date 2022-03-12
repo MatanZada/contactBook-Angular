@@ -9,4 +9,4 @@
 
 # ScreenShot
 
-![Alt text](../Screenshot%202022-03-12%20230036.png "Git checkbox")
+![Alt text](Screenshot.png "Git checkbox")
